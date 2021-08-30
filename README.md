@@ -14,6 +14,7 @@
 
 
 
+
 ### Resources
 •	Dataset
 o	Download the 201908-citibike-tripdata.csv.zip  
@@ -33,8 +34,10 @@ o	Tableau Public
 
 ## Results
      
+    
+    In order to look to our live dasboard click the link below.
      
-     
+     ttps://public.tableau.com/views/CitiBikeProposal_16302952755340/Tripsbyusertype?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
      
      **As our final report portion on this project, This presentation was based on New York City data but could be applied,  to other major city in the World.
  we implemented the  final result, which was an interactive dashboard where we  offer a graphical representation of our analysis.**
