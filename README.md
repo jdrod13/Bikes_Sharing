@@ -9,7 +9,7 @@
     
     
     
-    **On this project, we collaborated with our team on creating a strategy to pitch for a  (bike-sharing) business proposal for angel investors looking to get some investors. The goal was to look at Citi bike data in New York City in August to see how this bike-sharing business operates in its high volumes of traffic during summer. After analyzing the data and cleaning it, I developed and  created visualizations to display the trends and opportunities that could be similar  in other cities.**
+   **On this project, we collaborated with our team on creating a strategy to pitch for a  (bike-sharing) business proposal for angel investors looking to get some investors. The goal was to look at Citi bike data in New York City in August to see how this bike-sharing business operates in its high volumes of traffic during summer. After analyzing the data and cleaning it, I developed and  created visualizations to display the trends and opportunities that could be similar  in other cities.**
 
 
 
