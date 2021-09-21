@@ -18,12 +18,13 @@
 
 
 ### Resources
-•	Dataset
-o	Download the 201908-citibike-tripdata.csv.zip  
-•	Software
-o	Python
-o	Pandas Library
-o	Tableau Public
+
+-	Dataset
+- Download the 201908-citibike-tripdata.csv.zip  
+-	Software
+-	Python
+-	Pandas Library
+-	Tableau Public
 
 
      
