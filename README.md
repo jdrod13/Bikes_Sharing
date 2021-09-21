@@ -1,7 +1,10 @@
 # Bikes_Sharing
 
 
-# Tableau Project
+
+
+## Tableau Project
+
 
 
 
@@ -18,6 +21,7 @@
 
 
 ### Resources
+
 
 -	Dataset
 - Download the 201908-citibike-tripdata.csv.zip  
