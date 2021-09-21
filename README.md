@@ -39,7 +39,7 @@
 
 
 
-## Results
+### Results
      
     
    **In order to look to our live dasboard click the link below.**
@@ -49,6 +49,7 @@
   
   **ttps://public.tableau.com/views/CitiBikeProposal_16302952755340/Tripsbyusertype?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link.**
      
+ 
  
  
  
