@@ -66,7 +66,9 @@
 
 
 
-**During the most profitable month of the year, the most wanted hours people used the bikes were 5 pm and 6 pm. At 8 am during the morning is also a good time that uncovers the trend that people are more likely to use the bikes. **
+
+**During the most profitable month of the year, the most wanted hours people used the bikes were 5 pm and 6 pm. At 8 am during the morning is also a good time that uncovers the trend that people are more likely to use the bikes.**
+
 
 
 
@@ -83,7 +85,9 @@
 
 
 
+
 <img width="605" alt="tableau 3" src="https://user-images.githubusercontent.com/81654454/130381460-804f7bd5-ddb0-453b-bdd5-7520b41d43a7.PNG">
+
 
 
 
@@ -105,7 +109,7 @@
 
 
 
-**In this case, we can appreciate the gender breakdown, which shows that most customers are male with approximately 65% market share; by contrast, women represent 25% and finally unknown gender with 10%. They all share the same heatmap, which shows how they have the same behavior on using bikes. **
+**In this case, we can appreciate the gender breakdown, which shows that most customers are male with approximately 65% market share; by contrast, women represent 25% and finally unknown gender with 10%. They all share the same heatmap, which shows how they have the same behavior on using bikes.**
 
 
 
